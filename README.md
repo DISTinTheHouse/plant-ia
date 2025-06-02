@@ -1,7 +1,7 @@
 #  Plant-IA
 
 [![PyPI version](https://img.shields.io/pypi/v/plant-ia)](https://pypi.org/project/plant-ia/)
-[![PyPI - Downloads](https://img.shields.io/pypi/dm/plant-ia)](https://pypi.org/project/plant-ia/)
+![Tests](https://github.com/DISTinTheHouse/plant-ia/actions/workflows/tests.yml/badge.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/python-3.6%2B-blue)](https://www.python.org/)
 
@@ -18,8 +18,8 @@ Te permite crear plantillas con variables e inyectarlas fácilmente:
 from plant_ia import Plantilla
 
 p = Plantilla("Hola {nombre}, ¿cómo estás hoy?")
-print(p.rellenar(nombre="Jesús"))
-# Resultado: Hola Jesús, ¿cómo estás hoy?")
+print(p.rellenar(nombre="Luis"))
+# Resultado: Hola Luis, ¿cómo estás hoy?")
 ```
 
 ---
