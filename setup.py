@@ -2,13 +2,13 @@ from setuptools import setup, find_packages
 
 setup(
     name='plant-ia',
-    version='0.1.0',
+    version='0.1.1',
     author='Jesús Alberto Ibarra Morales',
     author_email='ufkwear@gmail.com',
     description='Librería en español para estructurar prompts dinámicos con IA',
     long_description=open('README.md', encoding='utf-8').read(),
     long_description_content_type='text/markdown',
-    url='',
+    url='https://github.com/DISTinTheHouse/plant-ia',
     packages=find_packages(),
     classifiers=[
         'Programming Language :: Python :: 3',
