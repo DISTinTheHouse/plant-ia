@@ -1,0 +1,7 @@
+site_name: Plant-IA
+site_description: Librería para estructurar prompts dinámicos en español.
+theme:
+  name: material
+  language: es
+nav:
+  - Inicio: index.md
