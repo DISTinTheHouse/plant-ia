@@ -4,8 +4,8 @@ theme:
   name: material
   language: es
 nav:
-  - Inicio: docs/index.md
-  - Guía rápida: docs/guia.md
-  - Ejemplos: docs/ejemplos.md
-  - Contribuir: docs/contribuir.md
-  - Roadmap: docs/roadmap.md
+  - Inicio: index.md
+  - Guía rápida: guia.md
+  - Ejemplos: ejemplos.md
+  - Contribuir: contribuir.md
+  - Roadmap: roadmap.md
