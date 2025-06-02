@@ -1,4 +1,10 @@
-# Plant-IA
+#  Plant-IA
+
+[![PyPI version](https://img.shields.io/pypi/v/plant-ia)](https://pypi.org/project/plant-ia/)
+[![PyPI - Downloads](https://img.shields.io/pypi/dm/plant-ia)](https://pypi.org/project/plant-ia/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/python-3.6%2B-blue)](https://www.python.org/)
+
 
 **Plant-IA** es una librería en español diseñada para ayudarte a estructurar prompts dinámicos de forma sencilla, elegante y reutilizable. Ideal para integraciones con modelos de lenguaje como ChatGPT, Claude o Llama.
 
