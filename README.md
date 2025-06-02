@@ -1,6 +1,6 @@
 #  Plant-IA
 
-[![PyPI version](https://img.shields.io/pypi/v/plant-ia)](https://pypi.org/project/plant-ia/)
+[![PyPI version](https://img.shields.io/pypi/v/plant-ia?label=pypi)](https://pypi.org/project/plant-ia/)
 ![Tests](https://github.com/DISTinTheHouse/plant-ia/actions/workflows/tests.yml/badge.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/python-3.6%2B-blue)](https://www.python.org/)
