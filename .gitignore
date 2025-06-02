@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+*.sqlite3
+
+# Entornos virtuales
+.venv/
+env/
+venv/
+
+# Distribución
+dist/
+build/
+*.whl
+*.tar.gz
+
+# VSCode
+.vscode/
+
+# Pytest
+.pytest_cache/
+
+# Archivos temporales
+.DS_Store
+.cache/
+*.tmp
