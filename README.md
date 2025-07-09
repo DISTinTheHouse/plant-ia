@@ -123,20 +123,21 @@ tests/
 
 ---
 
-## 🤝 Contribuciones
+## Contribuciones
 
 ¿Quieres aportar? ¡Abre un issue o haz un pull request!  
 Plant-IA está abierta a crecer junto a la comunidad hispana.
 
 ---
 
-## 🧑‍💻 Autor
+## Autor
 
 Desarrollado por **Jesús Ibarra**  
-📦 Publicado en PyPI: [plant-ia](https://pypi.org/project/plant-ia/)
+📦 Publicado en PyPI: [plant-ia](https://pypi.org/project/plant-ia/)  
+🌐 Documentación oficial: [https://DISTinTheHouse.github.io/plant-ia/](https://DISTinTheHouse.github.io/plant-ia/)
 
 ---
 
-## 📝 Licencia
+## Licencia
 
 MIT © 2025 – Plant-IA

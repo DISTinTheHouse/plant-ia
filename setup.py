@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='plant-ia',
-    version='0.1.1',
+    version='1.1.2',
     author='Jesús Alberto Ibarra Morales',
     author_email='ufkwear@gmail.com',
     description='Librería en español para estructurar prompts dinámicos con IA',

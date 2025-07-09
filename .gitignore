@@ -30,7 +30,16 @@ python/
 
 # MkDocs
 site/
+site/**/*
+*.html
+*.css
+*.js
+sitemap.xml
+sitemap.xml.gz
+
+# Otros archivos comunes
 *.lock
+
 
 notes.txt
 .env
