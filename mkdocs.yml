@@ -1,11 +1,55 @@
 site_name: Plant-IA
 site_description: Librería para estructurar prompts dinámicos en español.
+site_url: https://distinthehouse.github.io/plant-ia/
+
+repo_url: https://github.com/DISTinTheHouse/plant-ia
+repo_name: DISTinTheHouse/plant-ia
+edit_uri: ""
+
 theme:
   name: material
   language: es
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.top
+    - toc.integrate
+    - content.code.copy
+    - content.action.edit
+    - content.action.view
+    - content.tabs.link
+  palette:
+    - scheme: default
+      primary: blue grey
+      accent: teal
+  font:
+    text: Roboto
+    code: Roboto Mono
+
 nav:
   - Inicio: index.md
   - Guía rápida: guia.md
   - Ejemplos: ejemplos.md
   - Contribuir: contribuir.md
   - Roadmap: roadmap.md
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.tabbed
+  - pymdownx.emoji
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/DISTinTheHouse/plant-ia
+    - icon: fontawesome/brands/python
+      link: https://pypi.org/project/plant-ia/
