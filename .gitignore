@@ -21,6 +21,7 @@ build/
 
 # Pytest
 .pytest_cache/
+python/
 
 # Archivos temporales
 .DS_Store
@@ -30,3 +31,6 @@ build/
 # MkDocs
 site/
 *.lock
+
+notes.txt
+.env
