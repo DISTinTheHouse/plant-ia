@@ -39,7 +39,4 @@ sitemap.xml.gz
 
 # Otros archivos comunes
 *.lock
-
-
-notes.txt
 .env
