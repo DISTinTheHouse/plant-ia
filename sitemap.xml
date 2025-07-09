@@ -1,3 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://distinthehouse.github.io/plant-ia/</loc>
+         <lastmod>2025-07-09</lastmod>
+    </url>
+    <url>
+         <loc>https://distinthehouse.github.io/plant-ia/contribuir/</loc>
+         <lastmod>2025-07-09</lastmod>
+    </url>
+    <url>
+         <loc>https://distinthehouse.github.io/plant-ia/ejemplos/</loc>
+         <lastmod>2025-07-09</lastmod>
+    </url>
+    <url>
+         <loc>https://distinthehouse.github.io/plant-ia/guia/</loc>
+         <lastmod>2025-07-09</lastmod>
+    </url>
+    <url>
+         <loc>https://distinthehouse.github.io/plant-ia/roadmap/</loc>
+         <lastmod>2025-07-09</lastmod>
+    </url>
 </urlset>
